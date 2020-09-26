@@ -1,15 +1,15 @@
 {
-  "name": "hackathon-starter",
+  "name": "pet-auction",
   "version": "6.0.1",
-  "description": "A boilerplate for Node.js web applications",
+  "description": "Pet auction project",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sahat/hackathon-starter.git"
+    "url": "https://github.com/Foxhound401/pet-project"
   },
   "license": "MIT",
-  "author": "Sahat Yalkabov",
+  "author": "brody",
   "contributors": [
-    "Yashar Fakhari (https://github.com/YasharF)"
+    "brody"
   ],
   "scripts": {
     "postinstall": "npm rebuild node-sass",
@@ -74,7 +74,21 @@
     "tumblr.js": "^3.0.0",
     "twilio": "^3.49.2",
     "twit": "^2.2.11",
-    "validator": "^13.1.1"
+    "validator": "^13.1.1",
+    "@date-io/date-fns": "^1.3.13",
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/pickers": "^3.2.10",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "date-fns": "^2.15.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-material-ui-carousel": "^1.8.2",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.1",
+    "styled-components": "^5.1.1"
   },
   "devDependencies": {
     "chai": "^4.2.0",
